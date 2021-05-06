@@ -5,3 +5,4 @@ AddEventHandler('TakeScreenShotSRK',function(name)
     }, function(err, data)
     end)
 end)
+-- apaga o servidor admin
