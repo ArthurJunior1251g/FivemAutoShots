@@ -8,6 +8,7 @@ srkPhoto.carcommand = 'carTakePhoto'
 
 srkPhoto.list = {  --------------------- LISTA DOS CARROS QUE VÃO SER FOTOGRAFADOS
     'panto',
+    'ferrariitalia',
 }
 
 srkPhoto.coords = vector3(39.58,-1058.17, 37.9) ---------------- POSIÇÃO DO CARRO
